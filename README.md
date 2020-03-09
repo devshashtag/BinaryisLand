@@ -48,7 +48,7 @@ if they are in range:
 
 **Find the largest island**
 
-**this algorithm help us to find**:
+**this program help us to find**:
 
 1 - **largest island**
 
